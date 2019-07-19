@@ -13,8 +13,6 @@ The purpose of this program is to help people to  find the perfect name for any 
 
 #####Technologies
 Html,css javascript,bootstrap.The use of  these languages is toprovide the basic structure of sites modified by other technologies. 
-######licence
-You can find us on this link https://github.com/wecode12/projects
 
 copyright (c)2019 Joselyne
 This project will helps people to find the perfect name for any occasion.
