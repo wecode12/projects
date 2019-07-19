@@ -20,9 +20,12 @@ Html,css javascript,bootstrap.The use of  these languages is toprovide the basic
 
 ##  contacts :
 
-email:joselynetusingwire@gmail.com
+
+email:joselynetusingwire@gmail.com 
+
 tel:0783891444
 
 ######  License:
+("https://wecode12.github.io/projects/")
 
-copyright (c)2019 Joselyne
+copyright (c)2019 Joselyne 
