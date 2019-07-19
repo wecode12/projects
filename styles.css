@@ -1,9 +1,8 @@
-body{
-  background-color: rgb(209, 162, 98);
+body {
+  background-color: rgb("209, 162, 98");
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8GsKsgLqFwoGSaOi7fRUNM1G919gQfLYEnhkELw4utt0bVTwEWA");
-  background-size: cover;
-  
-}
+  background-size: cover;}
+
   .fa {
     padding: 10px;
     font-size: 10px;
@@ -69,7 +68,7 @@ li a {
    text-align: left;
  
   }
-  .body{
+ .container{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0W8tf7oXUkgeUHqJiTCFf6u-x98ZX8iJ8Dyxp8ngBetVZEZ9nQ");
    background-size: cover;
     
