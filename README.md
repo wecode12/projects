@@ -26,4 +26,3 @@ tel:0783891444
 ######  License:
 
 copyright (c)2019 Joselyne
-This project will helps people to find the perfect name for any occasion.
