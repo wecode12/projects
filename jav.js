@@ -23,6 +23,4 @@ function akanName() {
         gender = document.getElementById('female').value;
         alert(" You born on " + dayOfTheWeek[dayCalculate] + " Your Akan name is " + female[dayCalculate]);
     }
-    document.getElementById('answer').innerHTML = dayOfTheWeek[dayCalculate];
 }
-
